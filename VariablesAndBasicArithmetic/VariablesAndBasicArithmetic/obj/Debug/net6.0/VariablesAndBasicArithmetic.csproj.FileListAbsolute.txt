@@ -1,0 +1,15 @@
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\bin\Debug\net6.0\VariablesAndBasicArithmetic.exe
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\bin\Debug\net6.0\VariablesAndBasicArithmetic.deps.json
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\bin\Debug\net6.0\VariablesAndBasicArithmetic.runtimeconfig.json
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\bin\Debug\net6.0\VariablesAndBasicArithmetic.dll
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\bin\Debug\net6.0\VariablesAndBasicArithmetic.pdb
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\obj\Debug\net6.0\VariablesAndBasicArithmetic.csproj.AssemblyReference.cache
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\obj\Debug\net6.0\VariablesAndBasicArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\obj\Debug\net6.0\VariablesAndBasicArithmetic.AssemblyInfoInputs.cache
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\obj\Debug\net6.0\VariablesAndBasicArithmetic.AssemblyInfo.cs
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\obj\Debug\net6.0\VariablesAndBasicArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\obj\Debug\net6.0\VariablesAndBasicArithmetic.dll
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\obj\Debug\net6.0\refint\VariablesAndBasicArithmetic.dll
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\obj\Debug\net6.0\VariablesAndBasicArithmetic.pdb
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\obj\Debug\net6.0\VariablesAndBasicArithmetic.genruntimeconfig.cache
+C:\Users\S1071204\source\repos\VariablesAndBasicArithmetic\VariablesAndBasicArithmetic\obj\Debug\net6.0\ref\VariablesAndBasicArithmetic.dll
